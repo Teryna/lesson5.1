@@ -1,0 +1,36 @@
+body {
+    margin: 0 auto;
+    max-width: 750px;
+    text-align: center;
+}
+ 
+div {
+    margin-top: 50px;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+    display: inline;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+thead {
+    background-color: #eee;
+}
+
+.done {
+    color: green;
+}
+
+.undone {
+    color: orange;
+}
+
+.map {
+    margin-top: 20px;
+}
